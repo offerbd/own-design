@@ -1,5 +1,6 @@
 body{
     background-color: #f0f2f5;
+    padding: 2%;
 }
 .input-contain{
         width: 400px;
@@ -10,18 +11,18 @@ body{
         border-radius: 10px;
         width:400px;
         margin-top: 70px;
-        /* display: flex; */
+        
         padding: 20px;
         margin-bottom: 25px;
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 h1{
     font-family: "facebook letter faces";
-    font-size: 60px;
+    font-size: 50px;
     color: #1877f2;
 }
 h3{
-    font-size: 25px;
+    font-size: 20px;
     color:#1c1e21;
     font-family: "Roboto Condensed", sans-serif;
 }
