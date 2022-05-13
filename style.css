@@ -9,7 +9,7 @@ body{
 
         background-color: white;
         border-radius: 10px;
-        width:330px;
+        width:300px;
         margin-top: 70px;
         
         padding: 20px;
@@ -27,7 +27,7 @@ h3{
     
 }
 input{
-    width: 92%;
+    width: 90%;
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 5px;
